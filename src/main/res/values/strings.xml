@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment!Final</string>
+    <string name="hint_meal_input">Enter time of day (e.g. Morning, Dinner)</string>
+    <string name="button_suggest">Get Meal Suggestion</string>
+    <string name="enter_time_of_day_e_g_morning_dinner" />
+    <string name="get_meal_suggestion" />
+    <string name="desc_meal_input" />
+    <string name="desc_button_suggest" />
+</resources>
